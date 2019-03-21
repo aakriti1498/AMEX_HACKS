@@ -1,0 +1,45 @@
+
+#logo img {
+  float: left;
+  height: 130px;
+  width: 11em;
+}
+
+#banner {
+  background: #088da5;
+  height: 100px;
+  padding-top: 30px;
+  border-bottom: 2px solid;
+  font: small-caps 40px/40px "Times New Roman", serif;
+  color: #dddddd;
+  text-align: center;
+}
+
+#screenshot {
+  text-align: center;
+}
+
+
+#columns {
+  background: white;
+}
+
+#main {
+  margin-left: 11em;
+  padding-top: 4ex;
+  padding-left: 2em;
+  background: white;
+}
+
+#page-sidebar {
+  float: left;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  width: 10em;
+  background: #6EC6F1;
+  height: 2000px;
+}
+
+A:link{color:#800080}
+A:visited{color:#800080}
