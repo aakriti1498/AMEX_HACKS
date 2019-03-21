@@ -6,6 +6,8 @@ We created a webiste **'AMEX ANALYTICS'** to be a one stop solution to help in s
 
 To run our website, Run index.html file under AMEXHackFinal folder.
 
+positivekeywords_detection- analyses all the positive keywords in the reviews to retain the features most liked by users.
+
 
 
 
