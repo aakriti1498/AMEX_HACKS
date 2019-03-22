@@ -4,7 +4,7 @@ The problem statement given was: How would you like American Express to engage w
 
 We created a webiste **'AMEX ANALYTICS'** to be a one stop solution to help in solving this. 
 
-To run our website, Run index.html file under AMEXHack_Final folder.
+To run our website, Run index.html file under **AMEXHack_Final folder**.
 
 Also, a few of our models have also been added to the repository. 
 1. **Review_scrape_analysis_Customers_Retention_Dissatisfied.ipynb** is a model for Identifying dissatisfied customers through scraped tweets
